@@ -1,4 +1,4 @@
-# UK Visa Eligibility Check
+## UK Visa Eligibility Check 
 
  ## Description <br />
   This repository contains the scenarios to check the Visa eligibility status for different nationalities coming to UK for different purposes.
@@ -46,21 +46,35 @@
          
     Running from Eclipse IDE Test Runner Class
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/3J6qLQsY/Project-Structure-Window.png)
+        
+    Running from Command Line - 
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/kgk7zJjc/Command-Line-MVN-Run.png)
+    
+
+   # Build Success: 
+       
+       Once build is successfull you can see the below image 
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/FFggK13Y/Buildsuccessmsg.png)
  
  # Reports :
  
    Reports will be generated under below folder 
        "project path"/target/site/serenity/index.html 
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/Hx3xqG8k/Cucumber-Serenity-Reports.png)
+        
   
 
 # Project directory structure: <br />
   The project has build scripts for both Maven and Gradle, and follows the standard directory structure used in most Serenity projects:
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/nLRGpWD0/Running-From-Test-Runner-Class.png)
+   
         
- Feature File : 
+
+ # Feature File : 
    Below are the Scenarios listed for the feature mentiones
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/JhQf1RrZ/Visa-Eligibility-Check-Feature-Scenarios.png)
-      
+ 
+ 
    
       
   
