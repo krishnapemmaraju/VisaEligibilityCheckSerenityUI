@@ -32,6 +32,14 @@
 # Starter of the Project : <br />
    The best place to start the project is download or clone the project on Github (provide github link ). This aloows you to install all the jars specified above along with the    supporting classes. <br />
    
+# Project directory structure: <br />
+  The project has build scripts for both Maven and Gradle, and follows the standard directory structure used in most Serenity projects:
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/nLRGpWD0/Running-From-Test-Runner-Class.png)
+   
+ # Feature File : 
+   Below are the Scenarios listed for the feature mentiones
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/JhQf1RrZ/Visa-Eligibility-Check-Feature-Scenarios.png)
+   
 # Steps to Run the Project :  <br />
 
     1. Clone the Respository ( Create a folder in local machine and run git clone "respository path" ) 
@@ -69,15 +77,7 @@
         
   
 
-# Project directory structure: <br />
-  The project has build scripts for both Maven and Gradle, and follows the standard directory structure used in most Serenity projects:
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/nLRGpWD0/Running-From-Test-Runner-Class.png)
-   
-        
 
- # Feature File : 
-   Below are the Scenarios listed for the feature mentiones
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/JhQf1RrZ/Visa-Eligibility-Check-Feature-Scenarios.png)
  
  
    
