@@ -55,16 +55,18 @@
            *  Right click on Project and copy the path 
            *  Go to the Terminal 
            *  Run mvn clean verify 
-        
     5. If you want to run from IDE :
          Navigate to "test runners package" -> right click on "****TestSuite.class" and select Run as "JUnit" <br />
+        
+  
    
-    6. Running from Eclipse IDE Test Runner Class :
+   #Running from 
+  
+     Runnning from Eclipse IDE Test Runner Class :
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/3J6qLQsY/Project-Structure-Window.png)
         
-    7. Running from Command Line :
+     Running from Command Line :
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/kgk7zJjc/Command-Line-MVN-Run.png)
-    
 
    # Build Success: 
        
