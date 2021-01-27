@@ -42,11 +42,10 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/JhQf1RrZ/Visa-Eligibility-Check-Feature-Scenarios.png)
    
 # Steps to Run the Project :  <br />
-
-    1. Clone the Respository ( Create a folder in local machine and run git clone "respository path" ) 
-    2. git pull ( should be on your main branch )
-    3. Import the Project in Eclipse or Intelliji IDE
-    4. If Eclipse please run with the below options - 
+       Clone the Respository ( Create a folder in local machine and run git clone "respository path" ) 
+       git pull ( should be on your main branch )
+       Import the Project in Eclipse or Intelliji IDE
+       If Eclipse please run with the below options - 
            *  Right click on Project and copy the path 
            *  Open the command prompt ( cmd ) 
            *  Navigate to the project path ( cd project path )
@@ -55,14 +54,12 @@
            *  Right click on Project and copy the path 
            *  Go to the Terminal 
            *  Run mvn clean verify 
-    5. If you want to run from IDE :
+      If you want to run from IDE :
          Navigate to "test runners package" -> right click on "****TestSuite.class" and select Run as "JUnit" <br />
         
+ # Running from 
   
-   
-   #Running from 
-  
-     Runnning from Eclipse IDE Test Runner Class :
+     Running from Eclipse IDE Test Runner Class :
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/3J6qLQsY/Project-Structure-Window.png)
         
      Running from Command Line :
@@ -71,8 +68,7 @@
    # Build Success: 
        
        Once build is successfull you can see the below image 
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/FFggK13Y/Buildsuccessmsg.png)
- 
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/FFggK13Y/Buildsuccessmsg.png) 
  # Reports :
  
    Reports will be generated under below folder 
