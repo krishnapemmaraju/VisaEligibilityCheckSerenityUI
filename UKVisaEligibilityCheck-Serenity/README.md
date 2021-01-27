@@ -40,27 +40,17 @@
  # Feature File : 
    Below are the Scenarios listed for the feature mentioned
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/JhQf1RrZ/Visa-Eligibility-Check-Feature-Scenarios.png)
-   
-# Steps to Run the Project :  <br />
-       Clone the Respository ( Create a folder in local machine and run git clone "respository path" ) 
-       git pull ( should be on your main branch )
-       Import the Project in Eclipse or Intelliji IDE
-       If Eclipse please run with the below options - 
-           *  Right click on Project and copy the path 
-           *  Open the command prompt ( cmd ) 
-           *  Navigate to the project path ( cd project path )
-           *  Run  mvn clean verify 
-       For Intelliji IDE please run with below options - 
-           *  Right click on Project and copy the path 
-           *  Go to the Terminal 
-           *  Run mvn clean verify 
-      If you want to run from IDE :
-         Navigate to "test runners package" -> right click on "****TestSuite.class" and select Run as "JUnit"
         
+# Reports :
+ 
+   Reports will be generated under below folder 
+       "project path"/target/site/serenity/index.html 
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/Hx3xqG8k/Cucumber-Serenity-Reports.png)
+       
  # Running from 
   
-    Eclipse IDE Test Runner Class :
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/Hx3xqG8k/Cucumber-Serenity-Reports.png)
+   #  Test Runner Class :
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![ScreenShot](https://i.postimg.cc/Hx3xqG8k/Cucumber-Serenity-Reports.png)
         
      Command Line :
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/kgk7zJjc/Command-Line-MVN-Run.png)
@@ -68,10 +58,5 @@
    # Build Success: 
        
        Once build is successfull you can see the below image 
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/FFggK13Y/Buildsuccessmsg.png) 
- # Reports :
- 
-   Reports will be generated under below folder 
-       "project path"/target/site/serenity/index.html 
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/Hx3xqG8k/Cucumber-Serenity-Reports.png)
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/FFggK13Y/Buildsuccessmsg.
         
