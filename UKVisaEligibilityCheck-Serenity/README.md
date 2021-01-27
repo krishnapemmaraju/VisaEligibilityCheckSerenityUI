@@ -55,14 +55,14 @@
            *  Go to the Terminal 
            *  Run mvn clean verify 
       If you want to run from IDE :
-         Navigate to "test runners package" -> right click on "****TestSuite.class" and select Run as "JUnit" <br />
+         Navigate to "test runners package" -> right click on "****TestSuite.class" and select Run as "JUnit"
         
  # Running from 
   
-     Running from Eclipse IDE Test Runner Class :
+    Eclipse IDE Test Runner Class :
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/Hx3xqG8k/Cucumber-Serenity-Reports.png)
         
-     Running from Command Line :
+     Command Line :
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot](https://i.postimg.cc/kgk7zJjc/Command-Line-MVN-Run.png)
 
    # Build Success: 
