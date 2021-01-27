@@ -20,9 +20,10 @@
 # Feature: <br />
    Validate Visa ElibilityCheck for Different nationalities coming to UK for Different purposes <br />
   Scenarios : <br />
-    1. Check Visa eligibility status for Australian Nationality coming to UK for Tourism
-    2. Check Visa eligibility status for Chile Nationality coming to UK for Work, academic visit or business and duration is more than 6 months
-    3. Check Visa eligibility status for Colombian Nationality coming to UK for Join partner or family for a long stay and duration is more than 6 months
+     1. Check Visa eligibility status for Australian Nationality coming to UK for Tourism
+     2. Check Visa eligibility status for Chile Nationality coming to UK for Work, academic visit or business and duration is more than 6 months
+     3. Check Visa eligibility status for Colombian Nationality coming to UK for Join partner or family for a long stay and duration is more than 6 months
+    
     
 # Starter of the Project : <br />
    The best place to start the project is download or clone the project on Github (provide github link ). This aloows you to install all the jars specified above along with the    supporting classes. <br />
